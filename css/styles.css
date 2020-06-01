@@ -33,7 +33,7 @@ img{
 }
 
 .menu{
-	width: 1000px;
+	width: 100%;
 	display: flex;
 	flex-wrap: wrap;
 	height: 90px;
@@ -46,7 +46,7 @@ img{
 	position: relative;
 }
 
-.menu .first-items{
+.menu .P-items{
 	border-left: 1px solid #363636
 }
 
